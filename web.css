@@ -1,0 +1,64 @@
+#bg{
+  background-image: url(https://images.pexels.com/photos/7477/night-trees-stars.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+.reg{
+  margin-left: 507px;
+  margin-top: -20px;
+  padding: 20px 35px;
+  font-size: 20px;
+  background-color: #EE7B25;
+  border: 1px #EE7B25;
+  color:#FFFFFF;
+  font-weight: bold;
+  border-radius: 7px;
+
+}
+button:hover{
+  background-color: #D35400
+}
+
+.information{
+ font-family: 'Montserrat', sans-serif;
+ padding-left:1.5em;
+ font-weight: lighter;
+ font-size: 16px;
+ margin-top: 30px;
+
+}
+.a{
+  color: #FFFFFF;
+  text-decoration: inherit;
+}
+a:hover{
+  color: #e67e22;
+}
+
+.header{
+  color: #EE7B27;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  margin-left:75px;
+  margin-top:31px;
+}
+.text{
+  margin-top: 210px;
+}
+
+.body{
+  text-align: center;
+  color: #FFFFFF;
+  font-style: italic;
+  font-size: 44px;
+}
+.body1{
+  text-align: center;
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 80px;
+  font-family: 'PT Sans', sans-serif;
+  margin-top: -30px;
+}
+.table{
+  padding-top: 10px;
+  margin-right: 70px;
+}
